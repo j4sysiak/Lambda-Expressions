@@ -19,7 +19,7 @@ public class App {
 		//Runner runner = new Runner();
 		Runner2 runner2 = new Runner2();
 		
-		System.out.println("=================depricated=======================");
+		System.out.println("=================depricated (java 1.6 - 1.7)=======================");
 		
 		runner2.run(new Executable2() {
 			
@@ -43,7 +43,7 @@ public class App {
 		}
 		);
 		
-		//System.out.println("==================Lambda======================");
+		//System.out.println("==================Lambda (java 1.8)======================");
 		
 		//runner.run( () -> System.out.println("Lambda expression") );
 		//runner2.run( () -> System.out.println("Lambda2 expression") );
